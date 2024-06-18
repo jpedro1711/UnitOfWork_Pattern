@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|c:\\jo\u00E3o pedro\\patterns\\unitofshop\\unitofshop\\transactions\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|solutionrelative:unitofshop\\transactions\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|c:\\jo\u00E3o pedro\\patterns\\unitofshop\\unitofshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|solutionrelative:unitofshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|c:\\jo\u00E3o pedro\\patterns\\unitofshop\\unitofshop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|solutionrelative:unitofshop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|c:\\jo\u00E3o pedro\\patterns\\unitofshop\\unitofshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|solutionrelative:unitofshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|c:\\jo\u00E3o pedro\\patterns\\unitofshop\\unitofshop\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|solutionrelative:unitofshop\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|c:\\jo\u00E3o pedro\\patterns\\unitofshop\\unitofshop\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|solutionrelative:unitofshop\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|c:\\jo\u00E3o pedro\\patterns\\unitofshop\\unitofshop\\transactions\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|solutionrelative:unitofshop\\transactions\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|c:\\jo\u00E3o pedro\\patterns\\unitofshop\\unitofshop\\unitofshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|solutionrelative:unitofshop\\unitofshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|c:\\jo\u00E3o pedro\\patterns\\unitofshop\\unitofshop\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|solutionrelative:unitofshop\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|c:\\jo\u00E3o pedro\\patterns\\unitofshop\\unitofshop\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|solutionrelative:unitofshop\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|c:\\jo\u00E3o pedro\\patterns\\unitofshop\\unitofshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|solutionrelative:unitofshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|c:\\jo\u00E3o pedro\\patterns\\unitofshop\\unitofshop\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B862ACA3-B293-4110-91BB-3AF33E324F9C}|UnitOfShop\\UnitOfShop.csproj|solutionrelative:unitofshop\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "UnitOfShop\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Data\\DataContext.cs",
+              "RelativeToolTip": "UnitOfShop\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:18:35.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "UnitOfShop\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "UnitOfShop\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:24:11.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Transactions\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfShop\\Transactions\\UnitOfWork.cs",
+              "ToolTip": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Transactions\\UnitOfWork.cs",
+              "RelativeToolTip": "UnitOfShop\\Transactions\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:31:32.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Program.cs",
+              "RelativeDocumentMoniker": "UnitOfShop\\Program.cs",
+              "ToolTip": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Program.cs",
+              "RelativeToolTip": "UnitOfShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:22:26.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "UnitOfShop\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "UnitOfShop\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:13:51.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "UnitOfShop\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "UnitOfShop\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:17:10.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Transactions\\interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfShop\\Transactions\\interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Transactions\\interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "UnitOfShop\\Transactions\\interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:31:58.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfShop",
+              "DocumentMoniker": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\UnitOfShop.csproj",
+              "RelativeDocumentMoniker": "UnitOfShop\\UnitOfShop.csproj",
+              "ToolTip": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\UnitOfShop.csproj",
+              "RelativeToolTip": "UnitOfShop\\UnitOfShop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T23:31:15.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Repositories\\interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "UnitOfShop\\Repositories\\interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Repositories\\interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "UnitOfShop\\Repositories\\interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:17:20.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Repositories\\interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "UnitOfShop\\Repositories\\interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Repositories\\interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "UnitOfShop\\Repositories\\interfaces\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:14:13.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "UnitOfShop\\Models\\Order.cs",
+              "ToolTip": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Models\\Order.cs",
+              "RelativeToolTip": "UnitOfShop\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:12:24.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "UnitOfShop\\Models\\Customer.cs",
+              "ToolTip": "C:\\Jo\u00E3o Pedro\\Patterns\\UnitOfShop\\UnitOfShop\\Models\\Customer.cs",
+              "RelativeToolTip": "UnitOfShop\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:12:16.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
